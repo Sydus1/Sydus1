@@ -3,7 +3,7 @@
 Software Engineer, Gamer by night.
 
 - 📚Studying at Universidad de los Andes - Colombia.<br>
-- 🌱Currently learning about web development with React!.<br>
+- 🌱Currently learning about web development with React!<br>
 - 💻Looking to improve my front-end skills.<br>
 
 
