@@ -1,6 +1,6 @@
 ### Hi there, my name is Juan Jose Sierra 👋
 
-Software Engineer, Gamer by night.
+I am a systems and computer science engineer from Universidad de los Andes with experience in frontend and backend development. Over the years, I have focused on web development using HTML, CSS and JavaScript. I am always willing to learn new technologies to improve my skills.
 
 - 📚Studying at Universidad de los Andes - Colombia.<br>
 - 🌱Currently learning about web development with React!<br>
