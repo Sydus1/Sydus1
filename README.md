@@ -4,7 +4,7 @@ I am a systems and computer science engineer from Universidad de los Andes with 
 
 - 📚Studying at Universidad de los Andes - Colombia.<br>
 - 🌱Currently learning about web development with React!<br>
-- 💻Looking to improve my front-end skills.<br>
+- 💻Looking to improve my front-end and Unity skills.<br>
 
 
 ## ⚖ Technologies and Skills
