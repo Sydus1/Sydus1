@@ -18,11 +18,9 @@ I am a systems and computer science engineer from Universidad de los Andes with 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ## 🌠 GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sydus1&theme=white&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Sydus1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sydus1&layout=compact&theme=buefy&hide_border=true&hide=ShaderLab,HLSL,Mathematica" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sydus1&theme=white&hide_border=true" alt="Anurag's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&hide=ShaderLab,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
-
-</details>
 
 ## 📞 Contact me
 [<img src="https://img.shields.io/badge/Email-j.sierraa%40uniandes.edu.co-orange">](mailto:j.sierraa@uniandes.edu.co)
