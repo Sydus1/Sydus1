@@ -1,10 +1,12 @@
 ### Hi there, my name is Juan Jose Sierra 👋
 
-I am a systems and computer science engineer from Universidad de los Andes with experience in frontend and backend development. Over the years, I have focused on web development using HTML, CSS and JavaScript. I am always willing to learn new technologies to improve my skills.
+I am a **Systems and Computer Science Engineer** from *Universidad de los Andes* with experience in **frontend, backend, mobile, and cloud development**. I have worked on projects involving **web applications, mobile apps in Kotlin, cloud deployment with Google Cloud, and digital twins with IoT and Augmented Reality (HoloLens 2)**. My passion is solving problems through technology, learning new tools, and building impactful solutions.  
 
-- 📚Studying at Universidad de los Andes - Colombia.<br>
-- 🌱Currently learning about web development with React!<br>
-- 💻Looking to improve my front-end and Unity skills.<br>
+- 🎓 Graduated as a Systems and Computer Science Engineer from Universidad de los Andes, Colombia.  
+- 🌱 Currently exploring **React**, **Unity**, and **IoT + AR applications**.  
+- 💻 Skilled in **Python, Java, C#, JavaScript/TypeScript, Kotlin, SQL**.  
+- 🛠️ Experienced with **Google Cloud, Firebase, Git, Unity, Blender, Figma**.  
+- 🚀 Always open to challenging projects that help me grow as a developer. 
 
 
 ## ⚖ Technologies and Skills
@@ -17,9 +19,11 @@ I am a systems and computer science engineer from Universidad de los Andes with 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
+
 ## 🌠 GitHub Stats:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sydus1&theme=white&hide_border=true" alt="Anurag's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&hide=ShaderLab,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
+
 
 
 ## 📞 Contact me
